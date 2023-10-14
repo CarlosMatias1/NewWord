@@ -2,7 +2,7 @@
 
 ### Olá, Me chamo **Carlos**
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Matias,carlos&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Matias,Carlos&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p> Estudando</p>
 
