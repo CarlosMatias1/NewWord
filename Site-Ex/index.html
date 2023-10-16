@@ -2,12 +2,35 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Semântico</title>
+        <p id="demo">JavaScriptclick aqui para mudar.</p>
+        <style>
+            body{
+                background-color: blueviolet;
+            }
+            h2{
+                text-align: center;
+                color: black;
+            }
+            h1{
+                color: black;
+                text-align: center;
+            }
+            header{
+                color: aqua;
+            }
+            footer{
+                text-overflow: clip;
+            }
+
+        </style>
 
          <nav></nav>
          <header>HTML SEMÂNTICO</header>
-         <section></section>
+         <section>
+           
          <aside></aside>
          <article></article>
 
@@ -15,9 +38,8 @@
 <body>
             <h1>Testando</h1>
             <hr>
-            <script>
-                
-            </script>
+        
+            <button type="button" onclick='document.getElementById("demo").innerHTML = "olá JavaScript!"'>Click Me!</button>
    
         <h2>Testando html semântico </h2>
         <footer>Todos os Direitos </footer>
